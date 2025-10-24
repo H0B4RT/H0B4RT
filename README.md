@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H0B4RT
 - 👀 I’m interested in coding, low poly models, pixel art, and making peoples' days just a little bit brighter.
-- 🌱 I’m currently learning SQL, Lua, Java, C#, C++, C, Godot, and Unity.
+- 🌱 I’m currently learning SQL, Lua, Java, C#, C++, C, Godot, and R.
 - 🌧️ I'm currently not looking to collaborate on any projects as I am making a fan game at the moment.
 - 📫 You can reach me through Discord or Gmail, I have my accounts almost everywhere as H0B4RT.
 - 😄 Pronouns: I prefer they/them! 
